@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="classmethod.applicant" />
+          <option value="classmethod.masses" />
+          <option value="classmethod.enterprise" />
+          <option value="classmethod.thirdperson" />
+          <option value="classmethod.defendant" />
+          <option value="classmethod.uuid" />
+          <option value="classmethod.case_num" />
+          <option value="classmethod.notaccepted_num" />
+          <option value="classmethod.replenishment_num" />
+          <option value="classmethod.area" />
+          <option value="classmethod.is_farmer" />
+          <option value="classmethod.is_labor" />
+          <option value="classmethod.dispute_place" />
+          <option value="classmethod.appeal" />
+          <option value="classmethod.appeal_type" />
+          <option value="classmethod.amount" />
+          <option value="classmethod.close_amount" />
+          <option value="classmethod.trial_limit_process" />
+          <option value="classmethod.produce" />
+          <option value="classmethod.procedure" />
+          <option value="classmethod.fsmgroup" />
+          <option value="classmethod.status" />
+          <option value="classmethod.case_type" />
+          <option value="classmethod.arranging_case" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
